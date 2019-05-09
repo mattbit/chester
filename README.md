@@ -1,4 +1,4 @@
-# Chester
+# Matisse 
 
 Adaptation of [csutter/chester-atom-syntax](https://github.com/csutter/chester-atom-syntax) for my very personal taste.
 
