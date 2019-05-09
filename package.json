@@ -1,7 +1,7 @@
 {
   "name": "chester-syntax",
   "theme": "syntax",
-  "version": "0.3.2",
+  "version": "0.3.3",
   "description": "A pretty Atom syntax theme based on Lonely Planet colours",
   "keywords": [
     "chester",
@@ -9,7 +9,7 @@
     "theme",
     "atom",
     "clean",
-    "sexy"
+    "colorful"
   ],
   "repository": "https://github.com/mattbit/chester-syntax",
   "license": "MIT",
