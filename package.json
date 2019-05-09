@@ -1,5 +1,5 @@
 {
-  "name": "chester-atom-syntax",
+  "name": "chester-syntax",
   "theme": "syntax",
   "version": "0.3.2",
   "description": "A pretty Atom syntax theme based on Lonely Planet colours",
@@ -11,7 +11,7 @@
     "clean",
     "sexy"
   ],
-  "repository": "https://github.com/csutter/chester-atom-syntax",
+  "repository": "https://github.com/mattbit/chester-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">=0.174.0 <2.0.0"
