@@ -1,17 +1,18 @@
 {
-  "name": "chester-syntax",
+  "name": "matisse-syntax",
   "theme": "syntax",
   "version": "0.3.3",
   "description": "A pretty Atom syntax theme based on Lonely Planet colours",
   "keywords": [
     "chester",
+    "matisse",
     "syntax",
     "theme",
     "atom",
     "clean",
     "colorful"
   ],
-  "repository": "https://github.com/mattbit/chester-syntax",
+  "repository": "https://github.com/mattbit/matisse-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">=0.174.0 <2.0.0"
